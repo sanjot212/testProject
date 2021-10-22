@@ -1,0 +1,1 @@
+The project is a fresh veggies alerter app. This app alerts its user when fresh vegetables arrive in the market for the user to order through the app. The user will be alerted whenever some new fresh vegetable arrives in the market.
